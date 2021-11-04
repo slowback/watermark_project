@@ -1,0 +1,6 @@
+('Arial CE', 'ArialCE.ttf')
+('Arial Black', 'ariblk.ttf')
+('Calibri Light', 'Calibri Light.ttf')
+('Calibri', 'Calibri Regular.ttf')
+('Courier', 'courier.ttf')
+('MS Sans Serif', 'Microsoft Sans Serif.ttf')
